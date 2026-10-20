@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator Rancob by.arsyad",
+  "description": "Kalkulator Perancangan Percobaan, ANOVA & Uji Lanjut Otomatis (RAL, RAK, Faktorial, Split Plot) dengan Ekspor Excel dan Skrip Python Streamlit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
